@@ -1,7 +1,7 @@
 var colors = require('colors');
-const {Persona} = require('./src/models/Persona')
-const {Empleado} = require('./src/models/Empleado')
-const {Planilla} = require('./src/models/Planilla')
+const {Persona} = require('./src/js/models/Persona')
+const {Empleado} = require('./src/js/models/Empleado')
+const {Planilla} = require('./src/js/models/Planilla')
 
 
 //camelCase
